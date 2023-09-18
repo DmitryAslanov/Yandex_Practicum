@@ -18,6 +18,6 @@
 |[Прогнозирование заказов такси](Taxi_predict) | Разработка модели для прогнозирования заказов такси в аэропорту на следующий час.  | *pandas, numpy, matplotlib,  statsmodels, sklearn, xgboost, CatBoost* |
 |[Классификация токсичных комментариев](Toxic_comments) | Разработка модели для классификация токсичных комментариев.  | *pandas, numpy,matplotlib, nltk, scipy, sklearn, CatBoost, torch, transformers, wordcloud* |
 |[Классификация одежды по фотографии](Fashion_classifier) | Разработка модели для классификация по фотографии типа предмета гардероба. Первое знакомство с CV и нейросетями. | *pandas, numpy, matplotlib, PIL, tensorflow.keras* |
-|[Определение возраста по фотографии](Age_determination) | Разработка модели которая по фотографии определит приблизительный возраст человека | *pandas, numpy, matplotlib, PIL, tensorflow.keras* |
+|[Определение возраста по фотографии](age_CV) | Разработка модели которая по фотографии определит приблизительный возраст человека | *pandas, numpy, matplotlib, PIL, tensorflow.keras* |
 | **Раздел 4:** | **Выпускной проект** | |
 |[Прогнозирование температуры стали](Steelworker_progect) | Построение модели машинного обучения, которая будет прогнозировать температуру сплава на сталилитейном предприятии.| *pandas, numpy, matplotlib, seaborn, sklearn, CatBoost, Shap* |
